@@ -19,8 +19,10 @@
 ⚡ Fun fact: I enjoy exploring the intersection of clean code and efficient logic!
 
 ---
+### 📊 GitHub Performance:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=dark" alt="Shivam's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamdhondkar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdhondkar&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Shivam's Top Languages" />
 </p>
 
 ### 🐍 My Contribution Snake
