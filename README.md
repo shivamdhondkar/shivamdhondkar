@@ -24,7 +24,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" alt="Shivam's Streak Stats" />
 </div>
-
 ---
 
 ### 🐍 My Contribution Snake
