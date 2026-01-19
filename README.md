@@ -19,12 +19,9 @@
 ⚡ Fun fact: I enjoy exploring the intersection of clean code and efficient logic!
 
 ---
-### 📊 GitHub Performance:
-### 🔥 Live Coding Streaks:
-<p align="center">
-  <img src="https://github-readme-streak-stats-git-main-dwivedis-projects.vercel.app/?user=shivamdhondkar&theme=tokyonight&hide_border=true" alt="Shivam's Streak Stats" />
-</p>
 
+### 🔥 Live Coding Streaks:
+![](https://nirzak-streak-stats.vercel.app/?user=shivamdhondkar&theme=dark&hide_border=false)<br/>
 ### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamdhondkar/shivamdhondkar/output/github-contribution-grid-snake-dark.svg">
