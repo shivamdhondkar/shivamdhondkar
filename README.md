@@ -19,12 +19,9 @@
 ⚡ Fun fact: I enjoy exploring the intersection of clean code and efficient logic!
 
 ---
-
-### 🔥 Live Coding Streaks:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" alt="Shivam's Streak Stats" />
-</div>
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=dark" alt="Shivam's Streak" />
+</p>
 
 ### 🐍 My Contribution Snake
 <picture>
