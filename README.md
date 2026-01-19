@@ -12,9 +12,11 @@ I am currently working on spring boot
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shivamdhondkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ### 🔥 Live Coding Streaks:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" alt="Shivam's Streak Stats" />
-</div>
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamdhondkar&theme=dark&show_icons=true&count_private=true" alt="Shivam's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=dark" alt="Shivam's Streak" height="150" />
+</p>
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdhondkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
