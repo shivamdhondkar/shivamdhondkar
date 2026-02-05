@@ -21,7 +21,7 @@
 ---
 
 ### 🔥 Live Coding Streaks:
-![](https://nirzak-streak-stats.vercel.app/?user=shivamdhondkar&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 ### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamdhondkar/shivamdhondkar/output/github-contribution-grid-snake-dark.svg">
