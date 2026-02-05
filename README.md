@@ -21,7 +21,10 @@
 ---
 
 ### 🔥 Live Coding Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav5021&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
 ### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamdhondkar/shivamdhondkar/output/github-contribution-grid-snake-dark.svg">
