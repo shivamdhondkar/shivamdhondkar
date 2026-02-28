@@ -68,6 +68,5 @@ div align="center">
   <br />
   <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
 </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
