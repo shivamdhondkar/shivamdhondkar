@@ -21,10 +21,13 @@
 ---
 
 ### 🔥 Live Coding Streaks:
-div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav5021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav5021&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamdhondkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdhondkar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
+
 ### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamdhondkar/shivamdhondkar/output/github-contribution-grid-snake-dark.svg">
@@ -46,14 +49,6 @@ div align="center">
 
 ---
 
-### 📊 GitHub Activity Profile:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamdhondkar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdhondkar&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
-
----
-
 ### 🤝 Connect with Me:
 <div align="center">
   <a href="mailto:shivamdhondkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -68,5 +63,3 @@ div align="center">
   <br />
   <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
 </div>
-
-
