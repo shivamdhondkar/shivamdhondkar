@@ -24,7 +24,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" />
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+  <img src="(https://streak-stats.demolab.com?user=shivamdhondkar)](https://git.io/streak-stats)" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shivamdhondkar)](https://git.io/streak-stats)
   
 </div>
 
