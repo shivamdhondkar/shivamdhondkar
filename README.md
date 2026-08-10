@@ -10,11 +10,9 @@
 ---
 
 ### 💫 About Me:
-🔭 I’m currently working on: **Spring Boot & Microservices**
+🔭 I’m currently working on: **Spring Boot**
 
 👯 I’m looking to collaborate on: **Open source Java projects**
-
-🤝 I’m looking for help with: **Advanced System Design & Cloud Integration**
 
 ⚡ Fun fact: I enjoy exploring the intersection of clean code and efficient logic!
 
@@ -25,7 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" />
   <br/>
   <img src="[(https://streak-stats.demolab.com?user=shivamdhondkar)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar)" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shivamdhondkar)](https://git.io/streak-stats)
   
 </div>
 
