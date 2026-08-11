@@ -61,8 +61,9 @@
   <!-- Fixed Live Coding Streak -->
   <img src="https://streak-stats.demolab.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdhondkar&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamdhondkar&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
+
 
 <br />
 
