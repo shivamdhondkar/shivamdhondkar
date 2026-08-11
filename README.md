@@ -23,6 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar&theme=tokyonight&hide_border=true" width="100%" />
   <br/>
   <img src="[(https://streak-stats.demolab.com?user=shivamdhondkar)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com/?user=shivamdhondkar)" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
